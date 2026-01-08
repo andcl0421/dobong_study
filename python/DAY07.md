@@ -79,7 +79,7 @@ def make_groups(names) : # def 함수이름(재료):
 
     return name_list
 
-make_groups(names_list)
+make_groups(names_list) 
 ```
-
+s
 

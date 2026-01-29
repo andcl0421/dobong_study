@@ -24,7 +24,7 @@
 - **성능 이점**: 게시물 본문을 일일이 읽지 않고도 특정 태그가 달린 글을 빠르게 조회(Index 효과)할 수 있습니다.
 
 ##  ERD (Entity Relationship Diagram)
-![facebook_ERD] (./facebook_erd.png) 
+![facebook_ERD](./facebook_erd.png) 
 
 ## 💻 SQL 구현 코드 (DDL)
 
